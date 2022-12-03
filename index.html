@@ -9,6 +9,42 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <div id="fridge_content" class="content invisible">
+        <img class="img_room" src="rooms/fridge_open.svg" alt="inside fridge">
+        <button onclick="openCloseFridge()">Close fridge</button>
+    </div>
+
+    <div id="kitchen_content" class="content">
+        <img class="img_room" src="rooms/kitchen_.svg" alt="kitchen">
+        <button onclick="openCloseFridge()">Open fridge</button>
+        <button onclick="openCloseCabinet()">Open cabinet</button>
+        <button onclick="openCloseOutside()">Go outside</button>
+    </div>
+
+    <div id="cabinet_content" class="content invisible">
+        <img class="img_room"src="rooms/cabinet_open.svg" alt="inside cabinet">
+        <button onclick="openCloseCabinet()">Close cabinet</button>
+    </div>
+
+    <div id="outside_content" class="content invisible">
+        <img class="img_room" src="rooms/outdoors.svg" alt="outside">
+        <button onclick="openCloseOutside()">Go inside</button>
+        <button onclick="openCloseChickenCoop()">Go to chicken coop</button>
+        <button onclick="openCloseRooster()">Talk to the rooster</button>
+    </div>
+
+    <div id="rooster_content" class="content invisible">
+        <img class="img_room" src="rooms/tupp_stenar1.svg" alt="talking to rooster">
+        <button onclick="openCloseRooster()">Go back</button>
+        <button onclick="openCloseRooster()">Right rock</button>
+        <button onclick="openCloseRooster()">Left rock</button>
+
+    </div>
+
+    <div id="chicken_coop_content" class="content invisible">
+        <img class="img_room" src="rooms/the_chicken_coop.svg" alt="chicken coop">
+        <button onclick="openCloseChickenCoop()">Go back</button>
+    </div>
+
 </body>
 </html>

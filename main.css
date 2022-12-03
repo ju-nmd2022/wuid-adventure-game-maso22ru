@@ -1,0 +1,13 @@
+.content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img_room {
+    height: 80vh;
+}
+
+.invisible {
+    display: none;
+}
