@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 500">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-4, .cls-6, .cls-7, .cls-8 {
+        stroke: #8c6239;
+      }
+
+      .cls-1, .cls-11 {
+        fill: #754c24;
+      }
+
+      .cls-2 {
+        fill: #ccc;
+        stroke: #f2f2f2;
+      }
+
+      .cls-3, .cls-9 {
+        stroke: #e6e6e6;
+      }
+
+      .cls-3, .cls-10 {
+        fill: none;
+      }
+
+      .cls-4 {
+        fill: #998675;
+      }
+
+      .cls-12 {
+        fill: #f8ffcb;
+      }
+
+      .cls-5 {
+        stroke: #ff1d25;
+        stroke-width: .7px;
+      }
+
+      .cls-5, .cls-9 {
+        fill: #f2f2f2;
+      }
+
+      .cls-6 {
+        fill: #c7b299;
+      }
+
+      .cls-7, .cls-13 {
+        fill: #fbb03b;
+      }
+
+      .cls-8 {
+        fill: #8c6239;
+      }
+
+      .cls-14 {
+        font-family: InkFree, 'Ink Free';
+        font-size: 12px;
+      }
+
+      .cls-15 {
+        fill: #fdff8a;
+      }
+
+      .cls-10 {
+        stroke: #603813;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1" data-name="Layer 1">
+    <g>
+      <rect class="cls-12" x=".5" y=".5" width="699" height="499"/>
+      <path class="cls-15" d="M699,1V499H1V1H699m1-1H0V500H700V0h0Z"/>
+    </g>
+    <rect class="cls-6" x="32" y="68.16" width="641" height="365.93"/>
+    <rect class="cls-8" x="60.63" y="99.28" width="268.85" height="306.19"/>
+    <rect class="cls-1" x="82.5" y="118.5" width="222" height="287"/>
+    <rect class="cls-6" x="371.33" y="98.35" width="268.85" height="306.19"/>
+    <g>
+      <path class="cls-11" d="M605.33,168.8c-5.9,0-10.7-4.8-10.7-10.7s4.8-10.7,10.7-10.7,10.7,4.8,10.7,10.7-4.8,10.7-10.7,10.7Z"/>
+      <path class="cls-11" d="M605.32,147.89c5.63,0,10.2,4.58,10.2,10.2s-4.58,10.2-10.2,10.2-10.2-4.58-10.2-10.2,4.58-10.2,10.2-10.2m0-1c-6.19,0-11.2,5.02-11.2,11.2s5.02,11.2,11.2,11.2,11.2-5.02,11.2-11.2-5.02-11.2-11.2-11.2h0Z"/>
+    </g>
+    <polygon class="cls-4" points="329.5 274.5 60.5 274.5 81.5 230.5 304.5 230.5 329.5 274.5"/>
+    <polygon class="cls-4" points="329.38 405.5 60.38 405.5 81.38 361.5 304.38 361.5 329.38 405.5"/>
+    <line class="cls-10" x1="60.5" y1="99.5" x2="84.5" y2="120.5"/>
+    <line class="cls-10" x1="329.5" y1="99.5" x2="304.5" y2="120.5"/>
+    <line class="cls-2" x1="232.5" y1="311.5" x2="232.5" y2="320.5"/>
+  </g>
+  <g id="skåp">
+    <rect class="cls-9" x="226" y="309" width="63" height="15" rx="4" ry="4"/>
+    <rect class="cls-13" x="234" y="324" width="48" height="5"/>
+    <rect class="cls-7" x="217.5" y="328.5" width="80" height="58" rx="12" ry="12"/>
+    <line class="cls-3" x1="232.5" y1="312.5" x2="232.5" y2="321.5"/>
+    <line class="cls-3" x1="239.5" y1="312.5" x2="239.5" y2="321.5"/>
+    <line class="cls-3" x1="246.5" y1="312.5" x2="246.5" y2="321.5"/>
+    <line class="cls-3" x1="252.5" y1="313.5" x2="252.5" y2="321.5"/>
+    <line class="cls-3" x1="257.5" y1="312.5" x2="257.5" y2="321.5"/>
+    <line class="cls-3" x1="264.5" y1="312.5" x2="264.5" y2="321.5"/>
+    <line class="cls-3" x1="270.5" y1="312.5" x2="270.5" y2="321.5"/>
+    <line class="cls-3" x1="276.5" y1="312.5" x2="276.5" y2="321.5"/>
+    <line class="cls-3" x1="281.5" y1="312.5" x2="281.5" y2="321.5"/>
+    <line class="cls-3" x1="285.5" y1="314.5" x2="285.5" y2="319.5"/>
+    <line class="cls-3" x1="228.5" y1="314.5" x2="228.5" y2="319.5"/>
+    <rect class="cls-5" x="217.5" y="347.5" width="80" height="20"/>
+    <text class="cls-14" transform="translate(231.5 360.72)"><tspan x="0" y="0">Marmelad</tspan></text>
+  </g>
+</svg>
