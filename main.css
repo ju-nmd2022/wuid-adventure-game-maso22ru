@@ -1,20 +1,21 @@
 .container {
     display: grid;
-    grid-template-rows: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
     min-height: 100vh;
     grid-area: 
     "room room room"
     "inventory inventory inventory";
 }
 
-
 .rooms_space {
     display: grid;
-    grid-area: room;
+    grid-area: "room";
+    max-width: 500px;
 }
 
 .inventory {
-    grid-area: inventory;
+    display: grid;
+    grid-area: "inventory";
     display: flex;
     align-items: center;
     width: 30rem;
