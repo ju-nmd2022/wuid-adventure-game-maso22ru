@@ -1,13 +1,74 @@
-.content {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+.container {
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr;
+    min-height: 100vh;
+    grid-area: 
+    "room room room"
+    "inventory inventory inventory";
 }
 
+
+.rooms_space {
+    display: grid;
+    grid-area: room;
+}
+
+.inventory {
+    grid-area: inventory;
+    display: flex;
+    align-items: center;
+    width: 30rem;
+    height: 10rem;
+    background-color: darkgreen;
+    color: wheat;
+    font-size: 1.3rem;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 2px;
+    border-width: 3px;
+    padding-left: 4%;
+    border-style: solid;
+    border-color: wheat;
+}
+
+
+button {
+    background-color: darkgreen;
+    color: wheat;
+    font-family: Helvetica, sans-serif;
+    font-weight: bolder;
+    font-size: 1.1rem;
+    letter-spacing: 2px;
+    padding: 12px;
+    margin: 8px;
+    border-radius: 7px;
+}
 .img_room {
-    height: 80vh;
+    height: 20rem;
 }
 
 .invisible {
     display: none;
+}
+
+a {
+    color: wheat;
+    text-decoration: none;
+}
+
+
+.inventory_stuff {
+    width: 2rem;
+    padding: 10px;
+}
+
+.stuff_milk {
+    width: 2rem;
+}
+
+.stuff_flour {
+    width: 3rem;
+}
+
+.stuff_egg {
+    width: 3rem;
 }

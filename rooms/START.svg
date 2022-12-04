@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="welcome" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 777.1 503">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ffcf84;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3 {
+        font-size: 32px;
+      }
+
+      .cls-3, .cls-4 {
+        font-family: HighTowerText-Reg, 'High Tower Text';
+      }
+
+      .cls-4 {
+        font-size: 20px;
+        letter-spacing: .02em;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" x=".5" y=".5" width="776.1" height="502"/>
+  <rect class="cls-2" x="87.39" y="108.18" width="601.28" height="246.64"/>
+  <text class="cls-3" transform="translate(134.12 168.78)"><tspan x="0" y="0">I am in the moood for some pancakes. </tspan><tspan x="0" y="38.4">Can you help me find the ingredients?</tspan></text>
+  <text class="cls-3" transform="translate(648.84 203.45)"><tspan x="0" y="0">“</tspan></text>
+  <text class="cls-3" transform="translate(116.88 160.36)"><tspan x="0" y="0">“</tspan></text>
+  <text class="cls-4" transform="translate(356.29 309.62)"><tspan x="0" y="0">(Tip: look at the fridge for a recipe)</tspan></text>
+</svg>
